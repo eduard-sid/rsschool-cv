@@ -1,16 +1,13 @@
-.qwerty {color: red;}
+.header{
+    display: flex;
+    align-items: center;
+    width: 1200px;
+    height: 94px;
+    background: #fff;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0;
 
-#wewe {color: blue;}
-
-.qwerty:hover {color: blue;
-    text-decoration: underline;
-    text-decoration-color: blueviolet;
-    cursor: pointer;
 }
-.qwerty:active {text-decoration: line-through;}
-
-.qwerty:visited {
-    color: gray;}
-
-input {color: blue;}
-input:focus {color:rebeccapurple;}
