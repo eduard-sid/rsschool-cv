@@ -1,0 +1,16 @@
+.qwerty {color: red;}
+
+#wewe {color: blue;}
+
+.qwerty:hover {color: blue;
+    text-decoration: underline;
+    text-decoration-color: blueviolet;
+    cursor: pointer;
+}
+.qwerty:active {text-decoration: line-through;}
+
+.qwerty:visited {
+    color: gray;}
+
+input {color: blue;}
+input:focus {color:rebeccapurple;}
