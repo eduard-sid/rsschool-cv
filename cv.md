@@ -4,7 +4,7 @@
 
 ## Contacts
    * Location: Pinsk, Belarus
-   * Phone: +375 29 898 29 00
+   * Phone: +375 (29) 898-29-00
    * e-mail: eduard.sid13@gmail.com
    * GitHub: eduard-sid
 
