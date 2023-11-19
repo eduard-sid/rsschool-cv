@@ -17,3 +17,4 @@
 
 ## Language
    English - A2
+   Russian native
